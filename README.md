@@ -1,5 +1,18 @@
 # Title 1 Hello-world-
 
+Testing ordered list
+
+*line 1
+*line 2
+*line 3
+
+1.Bullet 1
+2.Bullet 2
+3.Bullet 3 
+
+Testing orderd list
+1-line 1
+2-line 2 
 
 ## Title 2 
 
